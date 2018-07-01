@@ -1,0 +1,19 @@
+[목표]
+google kickstart(7/29, 8/26), past contents
+kakaotalk - code festival(8/5, c++/java), programmers
+samsung - code ground(연습용)
+
+[일정]
+매주 문제풀이 숙제
+오프라인 - 1시간 코드 리뷰, 1시간 문제 풀이
+
+알고리즘 문제해결전략 -> '알고스팟' 사이트의 문제
+
+6/30(토)
+-----1주차 과제----
+1. PICNIC
+2. BOARDCOVER
+3. CLOCKSYNC
+4. QUADTREE
+5. FENCE
+6. FANMEETING
