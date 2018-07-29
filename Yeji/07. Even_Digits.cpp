@@ -25,7 +25,7 @@ long long buttonPush(const long long number) {
 		if (first_odd_digit % 2 == 1) {
 			if (i != last_index) {
 				short next_digit = temp[i + 1] - '0';
-				short flag = -1;
+				short flag = CASE1;
 				if (first_odd_digit != 9) {
 					string remain = temp.substr(i + 1);
 					for (int j = 0; j < remain.length(); j++) {
